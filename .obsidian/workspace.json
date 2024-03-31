@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "3d0fe45fcbf05388",
+    "type": "split",
+    "children": [
+      {
+        "id": "b113fe1845963aa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85342b587c71bd2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Механика/статика.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bf8d8d449ff3695",
+    "type": "split",
+    "children": [
+      {
+        "id": "082158d89c37830c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81a95f582f685d8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a439e0962e9ebc7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f749f8af7bd166ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "66e6ff0da23eacef",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfc61f10e995dda0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad34c178918dc024",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Механика/статика.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff5e7897050b55db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Механика/статика.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87726434104cd146",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "089c75e14afd86b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Механика/статика.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "85342b587c71bd2d",
+  "lastOpenFiles": [
+    "Механика/Кинематика.md",
+    "Механика/статика.md",
+    "Pasted image 20240331133149.png",
+    "Pasted image 20240331133342.png",
+    "Pasted image 20240331133244.png",
+    "Pasted image 20240331133202.png",
+    "Механика/динамика.md",
+    "Без названия.md",
+    "ядерка",
+    "Молекулярка/Термодинамика.md",
+    "Электричество/электростатика.md",
+    "README.md"
+  ]
+}
