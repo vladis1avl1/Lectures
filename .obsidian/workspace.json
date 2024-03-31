@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Механика/динамика.md",
+                "file": "Механика/Статика.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Механика/динамика.md",
+                "file": "Механика/Статика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Механика/динамика.md",
+                "file": "Механика/Статика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Механика/динамика.md"
+                "file": "Механика/Статика.md"
               }
             }
           }
@@ -148,13 +148,17 @@
   },
   "active": "85342b587c71bd2d",
   "lastOpenFiles": [
+    "Механика/динамика.md",
+    "Механика/Статика.md",
     "Механика/Кинематика.md",
+    "Механика/Новый текстовый документ.txt",
+    "Механика/Статика.md.txt",
+    "Без названия",
     "Механика/статика.md",
     "Pasted image 20240331133149.png",
     "Pasted image 20240331133342.png",
     "Pasted image 20240331133244.png",
     "Pasted image 20240331133202.png",
-    "Механика/динамика.md",
     "Без названия.md",
     "ядерка",
     "Молекулярка/Термодинамика.md",
