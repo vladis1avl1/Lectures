@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Механика/Кинематика.md",
+                "file": "Механика/динамика.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Механика/Кинематика.md",
+                "file": "Механика/динамика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Механика/Кинематика.md",
+                "file": "Механика/динамика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Механика/Кинематика.md"
+                "file": "Механика/динамика.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "85342b587c71bd2d",
   "lastOpenFiles": [
-    "Механика/статика.md",
     "Механика/Кинематика.md",
+    "Механика/статика.md",
     "Pasted image 20240331133149.png",
     "Pasted image 20240331133342.png",
     "Pasted image 20240331133244.png",
